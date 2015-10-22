@@ -6,4 +6,5 @@ File.open("test1.txt", "w") do |file|
 		file.puts "One Line"
 		file.puts "Another"
 		file.puts "New Line"
+		file.puts "Another Line"
 end
